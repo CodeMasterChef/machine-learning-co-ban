@@ -1,6 +1,8 @@
 # machine-learning-co-ban
 Machine learning roadmap for Vietnamese
 
+# Cheat sheet:
+![image](https://user-images.githubusercontent.com/10974517/62175331-896aec00-b367-11e9-9613-60d2780a55eb.png)
 
 
 # Linear Regression (Hồi quy tuyến tính):
