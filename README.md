@@ -8,6 +8,9 @@ Machine learning roadmap for Vietnamese
 
 ![image](https://user-images.githubusercontent.com/10974517/62175578-5ffe9000-b368-11e9-8f77-412bbb399dbf.png)
 
+#  Supervised algorithms và unsupervised algorithms:
+![image](https://user-images.githubusercontent.com/10974517/62339575-aa1d7800-b506-11e9-88bd-c4e6984af3e6.png)
+
 
 # Linear Regression (Hồi quy tuyến tính):
 
